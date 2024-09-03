@@ -1,7 +1,18 @@
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/your-username/logo.png" alt="Logo" width="200" height="200"/>
+  <h1>Welcome to My GitHub Profile!</h1>
+</div>
+
+---
+
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<div align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+</div>
+
+---
 
 # 📊 GitHub Stats:
 <div align="center">
@@ -13,8 +24,20 @@
 ---
 
 ## 🌐 Connect with me:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/yasin.woow?mibextid=ZbWKwL)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/yasin.woow/)
+<div align="center">
+  <a href="https://www.facebook.com/yasin.woow?mibextid=ZbWKwL">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://www.instagram.com/yasin.woow/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/your-username/banner.png" alt="Banner" width="100%" />
+</div>
 
 <div align="center">
   <a href="https://visitcount.itsvg.in">
