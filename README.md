@@ -1,9 +1,3 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/logo.png" alt="Logo" width="200" height="200"/>
-  <h1>Welcome to My GitHub Profile!</h1>
-</div>
-
----
 
 # 💻 Tech Stack:
 <div align="center">
