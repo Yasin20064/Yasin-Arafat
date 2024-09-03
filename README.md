@@ -30,10 +30,6 @@
 ---
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-username/banner.png" alt="Banner" width="100%" />
-</div>
-
-<div align="center">
   <a href="https://visitcount.itsvg.in">
     <img src="https://visitcount.itsvg.in/api?id=Yasin20064&icon=0&color=0" alt="Profile Visit Count" />
   </a>
